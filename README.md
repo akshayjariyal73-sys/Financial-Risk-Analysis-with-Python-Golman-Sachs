@@ -238,9 +238,9 @@ Watch the complete technical video walkthrough detailing data wrangling steps, s
 Project Video Presentation Link [2]
 ------------------------------
 ## 👤 Author
-#Akshay Jariyal
-#Data Scientist & Analyst 
-# 📧 Email: ajaries1997@gmail.com [2]
+### Akshay Jariyal
+### Data Scientist & Analyst 
+### 📧 Email: ajaries1997@gmail.com [2]
 
 ------------------------------
 End of README file documentation.
